@@ -1,0 +1,878 @@
+{
+  "teluguQuestions": [
+    {
+      "questionOption1": "సమారాధన",
+      "questionOption2": "సామారాధన",
+      "correctAnswer": "సమారాధన"
+    },
+    {
+      "questionOption1": "అధ్యక్షత",
+      "questionOption2": "ఆధ్యక్షత",
+      "correctAnswer": "అధ్యక్షత"
+    },
+    {
+      "questionOption1": "ఆహ్వానం",
+      "questionOption2": "ఆహ్వనం",
+      "correctAnswer": "ఆహ్వానం"
+    },
+    {
+      "questionOption1": "దుప్పి",
+      "questionOption2": "ద్దుప్పి",
+      "correctAnswer": "దుప్పి"
+    },
+    {
+      "questionOption1": "మద్రణ",
+      "questionOption2": "ముద్రణ",
+      "correctAnswer": "ముద్రణ"
+    },
+    {
+      "questionOption1": "యంత్రమ్",
+      "questionOption2": "యంత్రం",
+      "correctAnswer": "యంత్రం"
+    },
+    {
+      "questionOption1": "ప్రక్షాళణ",
+      "questionOption2": "ప్రక్షాళన",
+      "correctAnswer": "ప్రక్షాళన"
+    },
+    {
+      "questionOption1": "మార్జాలమ్",
+      "questionOption2": "మార్జాలం",
+      "correctAnswer": "మార్జాలం"
+    },
+    {
+      "questionOption1": "క్షణం",
+      "questionOption2": "క్షణము",
+      "correctAnswer": "క్షణం"
+    },
+    {
+      "questionOption1": "శ్రవణం",
+      "questionOption2": "స్రవణం",
+      "correctAnswer": "శ్రవణం"
+    },
+    {
+      "questionOption1": "అక్షరాం",
+      "questionOption2": "అక్షరం",
+      "correctAnswer": "అక్షరం"
+    },
+    {
+      "questionOption1": "వరస",
+      "questionOption2": "వరుసా",
+      "correctAnswer": "వరస"
+    },
+    {
+      "questionOption1": "బాష",
+      "questionOption2": "భాష",
+      "correctAnswer": "భాష"
+    },
+    {
+      "questionOption1": "విద్యుతు",
+      "questionOption2": "విద్యుత్తు",
+      "correctAnswer": "విద్యుత్తు"
+    },
+    {
+      "questionOption1": "మార్పు",
+      "questionOption2": "మార్ఫు",
+      "correctAnswer": "మార్పు"
+    },
+    {
+      "questionOption1": "స్థలం",
+      "questionOption2": "స్తలం",
+      "correctAnswer": "స్థలం"
+    },
+    {
+      "questionOption1": "జాగ్రత",
+      "questionOption2": "జాగ్రత్త",
+      "correctAnswer": "జాగ్రత్త"
+    },
+    {
+      "questionOption1": "ద్వీపకల్పం",
+      "questionOption2": "ద్వీపాకల్పం",
+      "correctAnswer": "ద్వీపకల్పం"
+    },
+    {
+      "questionOption1": "ఘడియలు",
+      "questionOption2": "ఘఢియలు",
+      "correctAnswer": "ఘడియలు"
+    },
+    {
+      "questionOption1": "చెఱసాల",
+      "questionOption2": "చెరసాల",
+      "correctAnswer": "చెరసాల"
+    },
+    {
+      "questionOption1": "చమురు",
+      "questionOption2": "ఛమురు",
+      "correctAnswer": "చమురు"
+    },
+    {
+      "questionOption1": "బంతి భోజనం",
+      "questionOption2": "బంథి బోజానం",
+      "correctAnswer": "బంతి భోజనం"
+    },
+    {
+      "questionOption1": "మహా సముద్రం",
+      "questionOption2": "మహా సాముద్రం",
+      "correctAnswer": "మహా సముద్రం"
+    },
+    {
+      "questionOption1": "ఉచితం",
+      "questionOption2": "వుచితం",
+      "correctAnswer": "ఉచితం"
+    },
+    {
+      "questionOption1": "వాస్తువు",
+      "questionOption2": "వస్తువు",
+      "correctAnswer": "వస్తువు"
+    },
+    {
+      "questionOption1": "పళ్లెం",
+      "questionOption2": "పల్లెం",
+      "correctAnswer": "పళ్లెం"
+    },
+    {
+      "questionOption1": "క్రమక్రమేణ",
+      "questionOption2": "క్రమక్రమేనా",
+      "correctAnswer": "క్రమక్రమేణ"
+    },
+    {
+      "questionOption1": "అనువాదం",
+      "questionOption2": "అనువదం",
+      "correctAnswer": "అనువాదం"
+    },
+    {
+      "questionOption1": "భజన",
+      "questionOption2": "భాజన",
+      "correctAnswer": "భజన"
+    },
+    {
+      "questionOption1": "లఘువుఁ",
+      "questionOption2": "లఘువు",
+      "correctAnswer": "లఘువు"
+    },
+    {
+      "questionOption1": "పాత్రలు",
+      "questionOption2": "పాత్రల",
+      "correctAnswer": "పాత్రలు"
+    },
+    {
+      "questionOption1": "సందేసం",
+      "questionOption2": "సందేశం",
+      "correctAnswer": "సందేశం"
+    },
+    {
+      "questionOption1": "వనిత",
+      "questionOption2": "వాణిత",
+      "correctAnswer": "వనిత"
+    },
+    {
+      "questionOption1": "ఆవలి",
+      "questionOption2": "అవాలి",
+      "correctAnswer": "ఆవలి"
+    },
+    {
+      "questionOption1": "ప్రతిస్పందన",
+      "questionOption2": "ప్రతిస్పందణ",
+      "correctAnswer": "ప్రతిస్పందన"
+    },
+    {
+      "questionOption1": "ఆధునీకత",
+      "questionOption2": "ఆధునికత",
+      "correctAnswer": "ఆధునీకత"
+    },
+    {
+      "questionOption1": "పంక్తి",
+      "questionOption2": "పఙ్క్తి",
+      "correctAnswer": "పంక్తి"
+    },
+    {
+      "questionOption1": "ఆకారం",
+      "questionOption2": "ఆకరం",
+      "correctAnswer": "ఆకారం"
+    },
+    {
+      "questionOption1": "అనుభంధం",
+      "questionOption2": "అనుబంధం",
+      "correctAnswer": "అనుబంధం"
+    },
+    {
+      "questionOption1": "ఆహార్యం",
+      "questionOption2": "ఆహర్యం",
+      "correctAnswer": "ఆహార్యం"
+    },
+    {
+      "questionOption1": "అణువు",
+      "questionOption2": "అనువు",
+      "correctAnswer": "అణువు"
+    },
+    {
+      "questionOption1": "పుటాకార దర్పణం",
+      "questionOption2": "పూటకారా ధర్పణం",
+      "correctAnswer": "పుటాకార దర్పణం"
+    },
+    {
+      "questionOption1": "నమస్కారం",
+      "questionOption2": "నమసకారం",
+      "correctAnswer": "నమస్కారం"
+    },
+    {
+      "questionOption1": "అమెరిక",
+      "questionOption2": "అమరిక",
+      "correctAnswer": "అమరిక"
+    },
+    {
+      "questionOption1": "విచక్షణ",
+      "questionOption2": "విచక్షన",
+      "correctAnswer": "విచక్షణ"
+    },
+    {
+      "questionOption1": "పర్యయం",
+      "questionOption2": "పర్యాయం",
+      "correctAnswer": "పర్యాయం"
+    },
+    {
+      "questionOption1": "ఉపాన్యాసం",
+      "questionOption2": "ఉపన్యాసం",
+      "correctAnswer": "ఉపన్యాసం"
+    },
+    {
+      "questionOption1": "ఉదాహరణ",
+      "questionOption2": "ఉదాహారణ",
+      "correctAnswer": "ఉదాహరణ"
+    },
+    {
+      "questionOption1": "ఉపసంహరనా",
+      "questionOption2": "ఉపసంహరణ",
+      "correctAnswer": "ఉపసంహరణ"
+    },
+    {
+      "questionOption1": "అరణయం",
+      "questionOption2": "అరణ్యం",
+      "correctAnswer": "అరణ్యం"
+    }
+  ],
+  "mathsQuestions": [
+    {
+      "question": "What wil be the result of 25+90?",
+      "questionOption1": "115",
+      "questionOption2": "105",
+      "correctAnswer": "115"
+    },
+    
+    {
+      "question": "What will be  the result of (5+3)*(9+8)?",
+      "questionOption1": "40",
+      "questionOption2": "136",
+      "correctAnswer": "136"
+    },
+    
+    {
+      "question": "What will be  the result of 19*90?",
+      "questionOption1": "1710",
+      "questionOption2": "1700",
+      "correctAnswer": "1710"
+    },
+    
+    {
+      "question": "What will be the result of 12*12?",
+      "questionOption1": "144",
+      "questionOption2": "154",
+      "correctAnswer": "144"
+    },
+    
+     {
+      "question": "What will be the result of 45+59?",
+      "questionOption1": "104",
+      "questionOption2": "124",
+      "correctAnswer": "104"
+    },
+    
+    {
+      "question": "What will be the result of (96-90)+(90-84)?",
+      "questionOption1": "12",
+      "questionOption2": "0",
+      "correctAnswer": "12"
+    },
+    
+    {
+      "question": "What will be the result of 1000*1000?",
+      "questionOption1": "1000000",
+      "questionOption2": "10000000",
+      "correctAnswer": "1000000"
+    },
+    
+    
+    {
+      "question": "What will be the result of 1100-999?",
+      "questionOption1": "111",
+      "questionOption2": "101",
+      "correctAnswer": "101"
+    },
+    
+     {
+      "question": "What will be the result of 111*11?",
+      "questionOption1": "1221",
+      "questionOption2": "12221",
+      "correctAnswer": "1221"
+    },
+    
+      {
+      "question": "What will be the result of 100+1011?",
+      "questionOption1": "11111",
+      "questionOption2": "1111",
+      "correctAnswer": "1111"
+    },
+    
+     {
+      "question": "What will be the result of 1010*1010?",
+      "questionOption1": "1020100",
+      "questionOption2": "102010",
+      "correctAnswer": "1020100"
+    },
+    
+      {
+      "question": "What will be the result of 24*4?",
+      "questionOption1": "96",
+      "questionOption2": "86",
+      "correctAnswer": "96"
+    },
+    
+      {
+      "question": "What will be the result of 201+102?",
+      "questionOption1": "303",
+      "questionOption2": "333",
+      "correctAnswer": "303"
+    },
+    
+    
+      {
+      "question": "What will be the time difference between 23:59 and 20:49?",
+      "questionOption1": "3 Hours 10 Minutes",
+      "questionOption2": "2 Hours 15 Minutes",
+      "correctAnswer": "3 Hours 10 Minutes"
+    },
+    
+      {
+      "question": "Which amongst is the Prime Number?",
+      "questionOption1": "2999",
+      "questionOption2": "2989",
+      "correctAnswer": "2999"
+    },
+    
+      {
+      "question": "Which amongst is the Armstrong Number?",
+      "questionOption1": "407",
+      "questionOption2": "597",
+      "correctAnswer": "407"
+    },
+    
+    
+    {
+      "question": "Does 0 is a palindrome number?",
+      "questionOption1": "False",
+      "questionOption2": "True",
+      "correctAnswer": "True"
+    },
+    
+     {
+      "question": "Complete the series 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 22, 33, _?",
+      "questionOption1": "44",
+      "questionOption2": "55",
+      "correctAnswer": "44"
+    },
+     {
+      "question": "what will be the next number in this sequence 1,3,6,10,15,21,_?",
+      "questionOption1": "36",
+      "questionOption2": "28",
+      "correctAnswer": "28"
+    },
+    
+    {
+      "question": "When a fraction will be treated as improper fraction?",
+      "questionOption1": "numerator>denominator",
+      "questionOption2": "denominator<numerator",
+      "correctAnswer": "numerator>denominator"
+    },
+    
+      {
+      "question": "When a number will be Armstrong Number?",
+      "questionOption1": "a number should be equal to the sum of squares of its digits",
+      "questionOption2": "a number should be equal to the sum of cubes of its digits",
+      "correctAnswer": "a number should be equal to the sum of cubes of its digits"
+    },
+    
+    
+     {
+      "question": "Complete the sequence 3,12,24,33,66,_?",
+      "questionOption1": "75",
+      "questionOption2": "99",
+      "correctAnswer": "75"
+    },
+    
+    
+    
+     {
+      "question": "Complete the sequence 3,5,9,15,23,33,45,_?",
+      "questionOption1": "58",
+      "questionOption2": "59",
+      "correctAnswer": "59"
+    },
+    
+    {
+      "question": "Find the Proper Fraction?",
+      "questionOption1": "3/8",
+      "questionOption2": "8/3",
+      "correctAnswer": "3/8"
+    },
+    
+    {
+      "question": "Find the Proper Fraction?",
+      "questionOption1": "3/8",
+      "questionOption2": "8/3",
+      "correctAnswer": "3/8"
+    },
+    
+    {
+      "question": "Find the correct Fibonacci Series?",
+      "questionOption1": "1,2,3,5,8,13",
+      "questionOption2": "0,1,1,2,3,5,8,13",
+      "correctAnswer": "0,1,1,2,3,5,8,13"
+    },
+    
+     {
+      "question": "Find the improper fraction?",
+      "questionOption1": "11/12",
+      "questionOption2": "12/11",
+      "correctAnswer": "12/11"
+    },
+    
+    {
+      "question": "How many sides does a Heptagon contains?",
+      "questionOption1": "7",
+      "questionOption2": "8",
+      "correctAnswer": "7"
+    },
+    
+        {
+      "question": "Can a star shape become Hexagon?",
+      "questionOption1": "True",
+      "questionOption2": "False",
+      "correctAnswer": "True"
+    },
+    
+      {
+      "question": "which is the longest chord in circle?",
+      "questionOption1": "Radius",
+      "questionOption2": "Diameter",
+      "correctAnswer": "Diameter"
+    },
+    
+    
+    
+      {
+      "question": "Value of Right Angle?",
+      "questionOption1": "90 Degrees",
+      "questionOption2": "180 Degrees",
+      "correctAnswer": "90 Degrees"
+    },
+    
+      {
+      "question": "Complete the sequence 1,8,27,64,125,216_?",
+      "questionOption1": "353",
+      "questionOption2": "343",
+      "correctAnswer": "343"
+    },
+    
+      {
+      "question": "What is 1/2+3/4?",
+      "questionOption1": "1/4",
+      "questionOption2": "5/4",
+      "correctAnswer": "5/4"
+    },
+    
+    {
+      "question": "What is the average 32, 18, 21, 15, 34, 24?",
+      "questionOption1": "34",
+      "questionOption2": "24",
+      "correctAnswer": "24"
+    },
+    
+    
+    {
+      "question": "What is the median 10,40,32,18,6,7?",
+      "questionOption1": "18",
+      "questionOption2": "10",
+      "correctAnswer": "10"
+    },
+    
+       {
+      "question": "What is the median 55,70,60,80,65,85,90?",
+      "questionOption1": "70",
+      "questionOption2": "80",
+      "correctAnswer": "70"
+    },
+    
+    
+      {
+      "question": "What is the average of 1,5,6,9,8,7?",
+      "questionOption1": "5.5",
+      "questionOption2": "6",
+      "correctAnswer": "6"
+    },
+    
+    
+      {
+      "question": "What is the cube of 5?",
+      "questionOption1": "125",
+      "questionOption2": "135",
+      "correctAnswer": "125"
+    },
+    
+     {
+      "question": "What is the sum of cube of 2 and cube of 6?",
+      "questionOption1": "224",
+      "questionOption2": "244",
+      "correctAnswer": "224"
+    },
+    
+    {
+      "question": "What is the difference of cube of 6 and square of 4?",
+      "questionOption1": "162",
+      "questionOption2": "152",
+      "correctAnswer": "152"
+    },
+    
+     {
+      "question": "Does the Diameter is 2 times of radius?",
+      "questionOption1": "True",
+      "questionOption2": "False",
+      "correctAnswer": "True"
+    }
+    
+  ],
+
+"entertainmentQuestions": [
+    {
+      
+      "question": "Which is the Biggest cricket stadium in the world?",
+      "questionOption1": "Melbourne Cricket Ground",
+      "questionOption2": "Adelaide Oval",
+      "correctAnswer": "Melbourne Cricket Ground"
+    },
+    
+     {
+      
+      "question": "what is the full name of Sachin Tendulkar?",
+      "questionOption1": "Sachin Umesh Tendulkar",
+      "questionOption2": "Sachin Ramesh Tendulkar",
+      "correctAnswer": "Sachin Ramesh Tendulkar"
+    },
+    
+    
+     {
+      
+      "question": "Lionel Messi is from which country?",
+      "questionOption1": "Barcelona",
+      "questionOption2": "Madrid",
+      "correctAnswer": "Barcelona"
+    },
+    
+    
+     {
+      
+      "question": "How many players are required in Soccer?",
+      "questionOption1": "13",
+      "questionOption2": "11",
+      "correctAnswer": "11"
+    },
+    
+     {
+      
+      "question": "How many times India won the cricket world cup?",
+      "questionOption1": "3",
+      "questionOption2": "2",
+      "correctAnswer": "2"
+    },
+    {
+      "question":"Which Country has won world cup maximum times?",
+      "questionOption1": "Australia",
+      "questionOption2": "WestIndies",
+      "correctAnswer": "Australia"
+    },
+    
+    {
+    
+    "question":"How Many guinees world records are under Sachin Name?",
+      "questionOption1": "20",
+      "questionOption2": "19",
+      "correctAnswer": "19"
+    },
+    
+    {
+        "question": "Who is the first indian player who have hit 6 sixes in an over?",
+      "questionOption1": "Ravi Shastri",
+      "questionOption2": "Yuvaraj Singh",
+      "correctAnswer": "Ravi Shastri"
+    },
+    {
+        "question": "How many runs can be calculated for a boundary?",
+      "questionOption1": "6",
+      "questionOption2": "4",
+      "correctAnswer": "4"
+    },
+    
+    {
+    
+    "question": "Vishwanathan Anand is belongs to which sport?",
+      "questionOption1": "Chess",
+      "questionOption2": "Tennies",
+      "correctAnswer": "Chess"
+    },
+    
+    {
+    
+     "question": "Ussain Bolt is from which country?",
+      "questionOption1": "Jamaica",
+      "questionOption2": "Germany",
+      "correctAnswer": "Jamaica"
+    },
+    
+    
+    {
+        "question": "How Many seconds is Ussain Bolt's world Record in 100 metres?",
+      "questionOption1": "9.58 Seconds",
+      "questionOption2": "8.59 Seconds",
+      "correctAnswer": "9.58 Seconds"
+    },
+    
+    
+    {
+        "question": "Abhinav Bindra won the gold medal in olympics under which game?",
+      "questionOption1": "10 Meter Air Rifle",
+      "questionOption2": "20 Meter Air Rifle",
+      "correctAnswer": "10 Meter Air Rifle"
+    },
+    
+    {
+        "question": "How many Years India Hosted Olympics?",
+      "questionOption1": "1",
+      "questionOption2": "0",
+      "correctAnswer": "0"
+    },
+    
+    {
+        "question": "P V Sindhu is from which state from India?",
+      "questionOption1": "Telangana",
+      "questionOption2": "AndhraPradesh",
+      "correctAnswer": "Telangana"
+    },
+    
+       {
+        "question": "How many Grand Slam Tournaments are there in Tennis?",
+      "questionOption1": "5",
+      "questionOption2": "4",
+      "correctAnswer": "4"
+    },
+    
+      {
+        "question": "Wimbeldon 2019 Winner Male?",
+      "questionOption1": "Novak Djokovic",
+      "questionOption2": "Roger Federer",
+      "correctAnswer": "Novak Djokovic"
+    },
+    
+    
+      {
+        "question": "Wimbeldon 2019 Winner Female?",
+      "questionOption1": "Serena Williams",
+      "questionOption2": "Simona Halep",
+      "correctAnswer": "Simona Halep"
+    },
+    
+    {
+        "question": "Which Indian Movie was played at RoyalAlbertHall,London?",
+      "questionOption1": "Bahubali",
+      "questionOption2": "3 idiots",
+      "correctAnswer": "Bahubali"
+    },
+    
+    
+     {
+        "question": "Which is the highest award in Indian Film Industry?",
+      "questionOption1": "Dadasaheb Phalke Award",
+      "questionOption2": "National Film Awards",
+      "correctAnswer": "Dadasaheb Phalke Award"
+    },
+    
+      {
+        "question": "Amitabh Bachchan was born in?",
+      "questionOption1": "1959",
+      "questionOption2": "1969",
+      "correctAnswer": "1969"
+    },
+    
+    {
+        "question": "Other Name of Amitabh Bachchan is?",
+      "questionOption1": "Big B",
+      "questionOption2": "Big A",
+      "correctAnswer": "Big B"
+    },
+    
+    {
+        "question": "Who played Mr.Bean character?",
+      "questionOption1": "William Charle",
+      "questionOption2": "Rowan Atkinson",
+      "correctAnswer": "Rowan Atkinson"
+    },
+    
+     {
+        "question": "Who is the creator for Tom & Jerry?",
+      "questionOption1": "Gene Deitch",
+      "questionOption2": "John Williams",
+      "correctAnswer": "Gene Deitch"
+    },
+
+    {
+        "question": "How many years of uninterrupted Run was completed For DDLJ Movie in Maratha Mandir,Mumbai?",
+      "questionOption1": "25",
+      "questionOption2": "23",
+      "correctAnswer": "23"
+    },
+    
+    {
+      
+        "question": "Joaquin Phoenix was awarded for Which category in Academy Awards?",
+      "questionOption1": "Best Actor",
+      "questionOption2": "Best Director",
+      "correctAnswer": "Best Actor"
+    
+    },
+    
+    {
+      "question": "Who composed music for SlumDog Millionaire?",
+      "questionOption1": "A.R.Rahman",
+      "questionOption2": "Chris Dickens",
+      "correctAnswer": "A.R.Rahman"
+    
+    },
+    
+    
+    {
+      "question": "A.R.Rahman is from which country?",
+      "questionOption1": "Srilanka",
+      "questionOption2": "India",
+      "correctAnswer": "India"
+    
+    },
+    
+     {
+      "question": "In which year the first Jumanji movie was released?",
+      "questionOption1": "1996",
+      "questionOption2": "1995",
+      "correctAnswer": "1995"
+    
+    },
+      {
+      "question": "In which Country the largest movie theatere in the world was located?",
+      "questionOption1": "Spain",
+      "questionOption2": "France",
+      "correctAnswer": "Spain"
+        },
+        
+      {
+      "question": "World Best Movie in 2019 is?",
+      "questionOption1": "Parasite",
+      "questionOption2": "Avengers:EndGame",
+      "correctAnswer": "Avengers:EndGame"
+        },
+        
+        {
+      "question": "Who is the producer of Avengers:EndGame?",
+      "questionOption1": "Walt Disney",
+      "questionOption2": "Fox Entertainments",
+      "correctAnswer": "Walt Disney"
+        },
+        
+          {
+      "question": "Walt Disney studios is an?",
+      "questionOption1": "American Film Studio",
+      "questionOption2": "British Film Studio",
+      "correctAnswer": "American Film Studio"
+        },
+        
+        
+         {
+      "question": "Who acted in Titanic as Jack?",
+      "questionOption1": "Leonardo Dicaprio",
+      "questionOption2": "Billy Zane",
+      "correctAnswer": "Leonardo Dicaprio"
+        },
+        
+          {
+      "question": "Which character was played by Kate Winslet in Titanic Film?",
+      "questionOption1": "Rose",
+      "questionOption2": "Lilly",
+      "correctAnswer": "Rose"
+        },
+    {
+      "question": "Who Directed the Titanic Film?",
+      "questionOption1": "James Cameron",
+      "questionOption2": "James Cameran",
+      "correctAnswer": "James Cameron"
+        },
+    {
+      "question": "In which year Titanic Movie was Released?",
+      "questionOption1": "1997",
+      "questionOption2": "1998",
+      "correctAnswer": "1997"
+        },
+        
+        {
+      "question": "How many series of Harry Potter books were published?",
+      "questionOption1": "8",
+      "questionOption2": "7",
+      "correctAnswer": "7"
+        },
+        
+        {
+        
+        "question": "Who is the Author of Harry Potter?",
+      "questionOption1": "J.K.Rowling",
+      "questionOption2": "Chris Columbus",
+      "correctAnswer": "J.K.Rowling"
+        },
+        
+        {
+        
+        "question": "Which Harry Potter Bridge was located in Scotland?",
+      "questionOption1": "Railway",
+      "questionOption2": "Millenium",
+      "correctAnswer": "Railway"
+        },
+        
+        {
+        
+        "question": "The Philiosopher's Stone book was belongs to which series?",
+      "questionOption1": "Harry Potter",
+      "questionOption2": "parasite",
+      "correctAnswer": "Harry Potter"
+        }
+        
+       
+        
+        
+    
+    
+    
+
+    
+    
+    
+    
+  
+    
+    
+    ]
+}
+    
+ 
